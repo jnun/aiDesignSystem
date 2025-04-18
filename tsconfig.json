@@ -1,0 +1,67 @@
+{
+  "compilerOptions": {
+    // Type Checking
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictBindCallApply": true,
+    "strictPropertyInitialization": true,
+    "noImplicitThis": true,
+    "useUnknownInCatchVariables": true,
+    "alwaysStrict": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noImplicitOverride": true,
+    "noUncheckedIndexedAccess": true,
+    
+    // Modules
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    
+    // JavaScript Support
+    "allowJs": true,
+    "checkJs": true,
+    
+    // Emit
+    "noEmit": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "verbatimModuleSyntax": true,
+    "skipLibCheck": true,
+    
+    // Language and Environment
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "target": "esnext",
+    "jsx": "preserve",
+    
+    // Path Mapping
+    "baseUrl": "src",
+    "paths": {
+      "@/*": ["*"]
+    },
+    
+    // Type Acquisition
+    "typeRoots": ["./node_modules/@types", "./src/types"],
+    
+    // Interop Constraints
+    "allowSyntheticDefaultImports": true,
+    
+    // Projects
+    "incremental": true,
+    
+    // Output Formatting
+    "pretty": true
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
