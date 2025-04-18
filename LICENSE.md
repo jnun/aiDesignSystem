@@ -16,7 +16,7 @@ This repo is part of the greater movement to reclaim code from monopolies, to em
 ---
 
 ## 📜 The Pirate's Code License
-This project is licensed under [**The Pirate’s Code**](./LICENSE):
+This project is licensed under **The Pirate’s Code**:
 
 > “Ye may use it, sell it, modify it — but if ye profit or improve it, share yer plunder. Else be cursed by the crew.”
 
