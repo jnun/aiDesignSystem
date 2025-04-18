@@ -6,11 +6,6 @@
 > A rebellious software harbor for the bold, the free, and the dangerously creative.
 
 
-# 🏴‍☠️ Welcome to FAFO Capitalist Cove  
-_A project governed by The Pirate's Code_
-
-![FAFO Capitalist Cove](./fafo_capitalist_cove.jpg)
-
 ---
 
 ## ⚓️ What Be This?
@@ -24,8 +19,6 @@ This repo is part of the greater movement to reclaim code from monopolies, to em
 This project is licensed under [**The Pirate’s Code**](./LICENSE):
 
 > “Ye may use it, sell it, modify it — but if ye profit or improve it, share yer plunder. Else be cursed by the crew.”
-
-Read the full license in [`LICENSE`](./LICENSE).
 
 ---
 
