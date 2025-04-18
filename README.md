@@ -1,6 +1,6 @@
 # AI Design System
 
-![Pirate’s Code Licensed](./img/pirateCode.svg)
+![Pirate’s Code Licensed](./img/piratesCode.png)
 
 # 🏴‍☠️ AI Design System  
 _Governed by The Pirate’s Code_
