@@ -1,0 +1,7 @@
+# 🧠 AI-generated scratch files or drafts
+**/__temp__/
+**/__ai_output__/
+**/draft_*.ts
+
+# ⚙️ Generated logic or unstable AI output
+generated/
