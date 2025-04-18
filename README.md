@@ -1,6 +1,6 @@
 # AI Design System
 
-![Pirate’s Code Licensed](./img/piratesCode.png)
+![Pirate’s Code Licensed](./img/fafo_capitalist_cove.jpg)
 
 # 🏴‍☠️ AI Design System  
 _Governed by The Pirate’s Code_
