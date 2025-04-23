@@ -21,6 +21,7 @@ The single most frustrating experience you will have working with AI assisted co
 1. Remove any documentation, notes, outlines, or .md files that don't instruct your code
 2. Maintain good housekeeping, delete old code to avoid confusing the AI
 3. Copy and use ONLY the parts of this repository that directly support your code
+4. Planning is your friend
 
 ## 🧭 Purpose
 
